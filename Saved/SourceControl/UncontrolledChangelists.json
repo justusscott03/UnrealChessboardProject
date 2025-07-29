@@ -5,6 +5,9 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/ethan/OneDrive/Documents/UnrealChessboardProject/Content/levels/level_1.umap",
+				"C:/Users/ethan/OneDrive/Documents/UnrealChessboardProject/Content/Fab/Megascans/Surfaces/Wooden_Floor_wdipfjw/High/wdipfjw_tier_1/Materials/MI_wdipfjw.uasset",
+				"C:/Users/ethan/OneDrive/Documents/UnrealChessboardProject/Content/Fab/Megascans/Surfaces/Wall_Paint_qj2luvs0/High/qj2luvs0_tier_1/Materials/MI_qj2luvs0.uasset",
 				"C:/Users/ethan/OneDrive/Documents/UnrealChessboardProject/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/D/MG/EDRUPW3EOYDDSI6HNSIVT1.uasset",
 				"C:/Users/ethan/OneDrive/Documents/UnrealChessboardProject/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/D/50/395Y4QE4IIEWI3KSE3SB6L.uasset",
 				"C:/Users/ethan/OneDrive/Documents/UnrealChessboardProject/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/D/13/EPTYZCFZWXT7Z7XYKZ88XK.uasset",
@@ -57,8 +60,7 @@
 				"C:/Users/ethan/OneDrive/Documents/UnrealChessboardProject/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/E/SS/QXUZ4IXFNKHCYFWERA1HQA.uasset",
 				"C:/Users/ethan/OneDrive/Documents/UnrealChessboardProject/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/8/7A/C0UVMH95QVQO1KMTVK7MSB.uasset",
 				"C:/Users/ethan/OneDrive/Documents/UnrealChessboardProject/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/D/8U/VKFLMM0CV8ZCC0P3TQGTTM.uasset",
-				"C:/Users/ethan/OneDrive/Documents/UnrealChessboardProject/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/6/8I/HFL05AWIVBP8M8UXTV4H5K.uasset",
-				"C:/Users/ethan/OneDrive/Documents/UnrealChessboardProject/Content/levels/level_1.umap"
+				"C:/Users/ethan/OneDrive/Documents/UnrealChessboardProject/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/6/8I/HFL05AWIVBP8M8UXTV4H5K.uasset"
 			]
 		}
 	]
